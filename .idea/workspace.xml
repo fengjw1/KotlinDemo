@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b5a2149c-db14-4934-9e95-c4d9e3e0b6b1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VVwI0LQZ7XZ2nZvyLFsnWYh5wF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager" selected="Kotlin.ConditionalExpressionsTestKt">
+    <configuration name="ConditionalExpressionsTestKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="KotlinDemo" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="ConditionalExpressionsTestKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTestKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="KotlinDemo" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="MainTestKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringTestKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="KotlinDemo" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="StringTestKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.ConditionalExpressionsTestKt" />
+        <item itemvalue="Kotlin.StringTestKt" />
+        <item itemvalue="Kotlin.MainTestKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b5a2149c-db14-4934-9e95-c4d9e3e0b6b1" name="Default Changelist" comment="" />
+      <created>1577351486950</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577351486950</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="0" key="#Project_Structure" timestamp="1577351517613">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1577351517613" />
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577351689883">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1577351689883" />
+    <state x="308" y="83" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1577351689136">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="308" y="83" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.680@0.0.1280.680" timestamp="1577351689136" />
+    <state width="1229" height="192" key="GridCell.Tab.0.bottom" timestamp="1577352822469">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1229" height="192" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1577352822469" />
+    <state width="1229" height="192" key="GridCell.Tab.0.center" timestamp="1577352822469">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1229" height="192" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1577352822469" />
+    <state width="1229" height="192" key="GridCell.Tab.0.left" timestamp="1577352822469">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1229" height="192" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1577352822469" />
+    <state width="1229" height="192" key="GridCell.Tab.0.right" timestamp="1577352822469">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1229" height="192" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1577352822469" />
+    <state width="1229" height="192" key="GridCell.Tab.1.bottom" timestamp="1577352822303">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1229" height="192" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1577352822303" />
+    <state width="1229" height="192" key="GridCell.Tab.1.center" timestamp="1577352822303">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1229" height="192" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1577352822303" />
+    <state width="1229" height="192" key="GridCell.Tab.1.left" timestamp="1577352822303">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1229" height="192" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1577352822303" />
+    <state width="1229" height="192" key="GridCell.Tab.1.right" timestamp="1577352822303">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1229" height="192" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1577352822303" />
+    <state x="52" y="0" key="SettingsEditor" timestamp="1577351618320">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="52" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1577351618320" />
+    <state x="329" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1577351491446">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="329" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1577351491446" />
+  </component>
+</project>
